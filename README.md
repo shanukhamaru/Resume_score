@@ -40,7 +40,8 @@ Match resumes to job descriptions using **Generative AI + NLP + Transformers**. 
 
 ## 📸 Screenshot
 
-![Demo Screenshot](./screenshot.png) <!-- Rename your actual screenshot to match -->
+![image](https://github.com/user-attachments/assets/8b6ef705-180b-496b-a41c-36f30ae07722)
+
 
 ---
 
