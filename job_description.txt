@@ -1,0 +1,26 @@
+Responsibilities
+
+Develop and optimize NLU pipelines using frameworks like Rasa, spaCy, or Hugging Face Transformers.
+Implement and fine-tune text classification, named entity recognition (NER), and semantic parsing models.
+Train and deploy language models (LLMs) tailored for specific domains.
+Enhance multilingual NLU capabilities by integrating diverse language datasets.
+Preprocess and analyze large-scale textual datasets to improve model accuracy.
+Conduct A/B testing and model evaluation using metrics like F1-score, accuracy, and perplexity.
+Deploy NLU models into production environments using cloud-based AI services like AWS, Azure, or Google Cloud.
+Develop and maintain NLU training datasets and oversee continuous model retraining.
+
+Requirements
+
+Proficiency in Python and experience with NLP libraries like spaCy, NLTK, Hugging Face, or Rasa.
+Hands-on experience with deep learning frameworks (TensorFlow, PyTorch) for NLP tasks.
+Has knowledge of LLM frameworks such as langchain, langGraph, OpenAI realtime APIs
+Familiarity with transformer-based models (BERT, GPT, T5, etc.).
+Understanding of speech-to-text (STT) and text-to-speech (TTS) technologies.
+Experience with vector databases and retrieval-augmented generation (RAG).
+Strong problem-solving skills and ability to optimize NLU models for real-world applications.
+
+Preferred Qualifications
+
+Experience in LLM fine-tuning and prompt engineering.
+Knowledge of knowledge graphs and ontologies for improved intent handling.
+Familiarity with cloud AI services and deployment best practices.

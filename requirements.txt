@@ -1,0 +1,12 @@
+openai
+langchain
+python-docx
+PyPDF2
+tqdm
+langchain-community
+pypdf
+transformers
+torch
+datasets
+sentence-transformers
+gradio
